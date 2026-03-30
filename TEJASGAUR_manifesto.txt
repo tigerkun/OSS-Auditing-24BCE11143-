@@ -1,0 +1,10 @@
+THE OPEN SOURCE MANIFESTO
+Developed by: Tejas Gaur (24BCE11143)
+Date: 30 March 2026
+#######################################
+
+While others prioritize proprietary constraints, I choose to build accessible foundations through open-source software that sustains the world's digital infrastructure.
+
+Open-source tools, such as Git, serve as the architecture for turning abstract logic into functional reality. This ecosystem empowers my technical creativity and provides the transparency necessary to scale complex ideas into impactful solutions.
+
+To me, software freedom is defined by the absolute liberty to Create, Audit, and Evolve.
